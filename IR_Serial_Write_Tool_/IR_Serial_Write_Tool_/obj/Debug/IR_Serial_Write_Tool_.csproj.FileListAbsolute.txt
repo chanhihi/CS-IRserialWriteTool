@@ -1,0 +1,10 @@
+D:\GitHub\Tools\IR_Serial_Write_Tool_\IR_Serial_Write_Tool_\bin\Debug\IR_Serial_Write_Tool_.exe.config
+D:\GitHub\Tools\IR_Serial_Write_Tool_\IR_Serial_Write_Tool_\bin\Debug\IR_Serial_Write_Tool_.exe
+D:\GitHub\Tools\IR_Serial_Write_Tool_\IR_Serial_Write_Tool_\bin\Debug\IR_Serial_Write_Tool_.pdb
+D:\GitHub\Tools\IR_Serial_Write_Tool_\IR_Serial_Write_Tool_\obj\Debug\IR_Serial_Write_Tool_.IR_serial_write_tool.resources
+D:\GitHub\Tools\IR_Serial_Write_Tool_\IR_Serial_Write_Tool_\obj\Debug\IR_Serial_Write_Tool_.Properties.Resources.resources
+D:\GitHub\Tools\IR_Serial_Write_Tool_\IR_Serial_Write_Tool_\obj\Debug\IR_Serial_Write_Tool_.csproj.GenerateResource.cache
+D:\GitHub\Tools\IR_Serial_Write_Tool_\IR_Serial_Write_Tool_\obj\Debug\IR_Serial_Write_Tool_.csproj.CoreCompileInputs.cache
+D:\GitHub\Tools\IR_Serial_Write_Tool_\IR_Serial_Write_Tool_\obj\Debug\IR_Serial_Write_Tool_.exe
+D:\GitHub\Tools\IR_Serial_Write_Tool_\IR_Serial_Write_Tool_\obj\Debug\IR_Serial_Write_Tool_.pdb
+D:\GitHub\Tools\IR_Serial_Write_Tool_\IR_Serial_Write_Tool_\obj\Debug\IR_Serial_Write_Tool_.csprojAssemblyReference.cache
